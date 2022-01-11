@@ -1,0 +1,8 @@
+{
+  "name": "smart-home-ESP",
+  "description": "Extension for smart-home-ESP project",
+  "uuid": "smart-home@pwan.pl",
+  "shell-version": [
+    "40"
+  ]
+}
